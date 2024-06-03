@@ -10,7 +10,9 @@
 	<link rel="stylesheet" href="./css/intro-style.css">
 	<link rel="icon" href="./img/icon.png">
 	
-	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.js"
+        integrity="sha256-d7M1X98Ce/CABLP5g0YVtqD/b3QWUz8FxX3bD8N9cP8="
+        crossorigin="anonymous"></script>
 </head>
 <body>
 
